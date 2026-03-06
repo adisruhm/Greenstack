@@ -116,6 +116,12 @@ Any network participant can verify:
 
 ---
 
+License
+
+MIT License
+
+---
+
 Development & Testing
 
 1. Install Clarinet
@@ -135,9 +141,4 @@ clarinet check
 
 clarinet test
 
----
-
-License
-
-MIT License
 
